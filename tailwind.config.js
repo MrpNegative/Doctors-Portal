@@ -3,10 +3,10 @@ module.exports = {
   theme: {
     extend: {},
   },
-  doctortheem: {
+  daisyui: {
     themes: [
       {
-        mytheme: {
+        doctortheme: {
           primary: "#0FCFEC",
           secondary: "#19D3AE",
           accent: "#3A4256",
